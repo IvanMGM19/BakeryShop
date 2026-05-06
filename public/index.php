@@ -1,0 +1,1 @@
+//This is the entry point of the application. It will load the necessary files and start the application.

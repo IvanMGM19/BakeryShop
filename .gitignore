@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment / config (important)
+.env
+
+# Vendor (if you use Composer later)
+vendor/
+
+# Node (if you ever add frontend tools)
+node_modules/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Cache (if you add later)
+cache/
