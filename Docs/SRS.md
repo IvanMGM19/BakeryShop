@@ -1,9 +1,24 @@
 # Software Requirements Specification (SRS) for the Bakery Management System 
 
+
+
+---
+
 ## 1. Introduction
 
 ### 1.1 Purspose 
 
+This  Software Requirements Specification (SRS) document defines  
+the functional and non-functional requirements for the Bakery  
+Management System, a web-bases e-commerce application designed  
+to manage a bakery shop and its online sales process. 
+
+The purpose of this document is to provide a clear, complete, and  
+
+
+The purpose of the document is explain in a clear way 
+why is the main objective of the creation and of course
+what needs resolve the project.  
 
 
 ### 1.2 Intended Audience  
@@ -21,7 +36,7 @@ The idea with this document is explaind in details the software.
 
 ### 1.5 Definition and Acronyms  
 
-In this part is defined all key terms, acronyms,  
+In this part is defined all key terms, acronyms,
 and abbreviations used in this SRS.  
 This will help eliminate any ambiguity and ensure that all  
 parties easily understand the document.  
